@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1 >Course Registration</h1>
+      <h1 className='mb-24 mt-20'>Course Registration</h1>
       <Card></Card>
     </>
   )
