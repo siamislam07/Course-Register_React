@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/S6Vys9G/Rectangle-2-2.png",
+        "title": "Introduction to C Programming",
+        "description": "Explore the basics of C programming, learn syntax, data types, and more. Start your journey into the world of programming.",
+        "price": 15000,
+        "credit": "5"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/DtQf85V/Rectangle-2-3.png",
+        "title": "Introduction to Algorithms",
+        "description": "Master the fundamentals of algorithms and problem-solving. Unlock the power of efficient computation.",
+        "price": 25000,
+        "credit": "6"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/CWbLfrk/Rectangle-2-4.png",
+        "title": "Introduction to C++ for DSA",
+        "description": "Learn C++ with a focus on Data Structures and Algorithms. Build a strong foundation for competitive programming.",
+        "price": 10000,
+        "credit": "10"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/RYTPxhm/Rectangle-3.png",
+        "title": "Basic Data Structures",
+        "description": "Discover the essential data structures. Enhance your problem-solving skills and coding efficiency.",
+        "price": 35000,
+        "credit": "6"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/gVyfB4W/Rectangle-2.png",
+        "title": "Introduction to OOP Python",
+        "description": "Dive into Object-Oriented Programming with Python. Create reusable code and design efficient applications.",
+        "price": 19000,
+        "credit": "5"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/g9w6X3W/Rectangle-2-5.png",
+        "title": "Software Engineering",
+        "description": "Learn the principles of software engineering. Gain expertise in software development methodologies.",
+        "price": 23000,
+        "credit": "10"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/GVGztBB/Rectangle-3-1.png",
+        "title": "AWS, Cloud Computing",
+        "description": "Explore Amazon Web Services and cloud computing. Deploy scalable and reliable applications.",
+        "price": 35000,
+        "credit": "5"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/7N6GMzr/Rectangle-2-1.png",
+        "title": "Database (MySQL)",
+        "description": "Master the MySQL database management system. Learn to design and query databases effectively.",
+        "price": 19000,
+        "credit": "10"
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/XszTv19/Rectangle-2-6.png",
+        "title": "Problem-Solving Part",
+        "description": "Hone your problem-solving skills. Tackle complex challenges with confidence and creativity.",
+        "price": 23000,
+        "credit": "6"
+    }
+]
