@@ -43,7 +43,7 @@
         "id": 6,
         "img": "https://i.ibb.co/g9w6X3W/Rectangle-2-5.png",
         "title": "Software Engineering",
-        "description": "Learn the principles of software engineering. Gain expertise in software development methodologies.",
+        "description": "Learn the principles of software engineering. Gain expertise in software development .",
         "price": 23000,
         "credit": "10"
     },
@@ -59,7 +59,7 @@
         "id": 8,
         "img": "https://i.ibb.co/7N6GMzr/Rectangle-2-1.png",
         "title": "Database (MySQL)",
-        "description": "Master the MySQL database management system. Learn to design and query databases effectively.",
+        "description": "Master the MySQL database management system. Learn to design and query databases .",
         "price": 19000,
         "credit": "10"
     },
