@@ -11,7 +11,7 @@
         "id": 2,
         "img": "https://i.ibb.co/DtQf85V/Rectangle-2-3.png",
         "title": "Introduction to Algorithms",
-        "description": "Master the fundamentals of algorithms and problem-solving. Unlock the power of efficient computation.",
+        "description": "Master the fundamentals of algorithms and problem-solving. Unlock the power of efficient computation.representation of a ",
         "price": 25000,
         "credit": "6"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "img": "https://i.ibb.co/gVyfB4W/Rectangle-2.png",
         "title": "Introduction to OOP Python",
-        "description": "Dive into Object-Oriented Programming with Python. Create reusable code and design efficient applications.",
+        "description": "Dive into Object-Oriented Programming with Python. Create reusable code and design efficient.",
         "price": 19000,
         "credit": "5"
     },
