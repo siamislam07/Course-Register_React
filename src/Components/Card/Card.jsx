@@ -73,7 +73,7 @@ const Card = () => {
                                 </div>
                                 <div className="items-center ml-2">
                                 <h2 className="text-[19px] mt-4 font-semibold text-start">{course.title}</h2>
-                                <p className="mt-3 text-left    ;">{course.description}</p>
+                                <p className="mt-3 text-left  ">{course.description}</p>
                                 </div>
                                 <div className="flex justify-evenly mt-4 mb-5">
                                     <div className="flex items-center">
